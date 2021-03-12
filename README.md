@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kalpesh G Gavane
+- 👋 Hi, I’m Kalpesh Gavane
 - 👀 I’m currently Working On Laravel,Wordpress.
 - 📫 How to reach me: kalpeshgavane@gmail.com or Twitter @gavanekalpesh
 
